@@ -1,0 +1,67 @@
+{
+  "100S980212140": {
+    "sku": "100S980212140",
+    "brand": "Pediasure 3+",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-saudi/400gm-chocolate-PhotoRoom.png",
+    "en": {
+      "name": "Pediasure Chocolate 3 Plus Nutrition Supplement 400 g"
+    },
+    "ar": {
+      "name": "بدياشور 3+  غذاء تكميلي بنكهة الفانيلا الشوكولاتة 400 جم"
+    }
+  },
+  "100S980212152": {
+    "sku": "100S980212152",
+    "brand": "Pediasure 3+",
+    "points": 900,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-saudi/900gm-chocolate-PhotoRoom.png",
+    "en": {
+      "name": "Pediasure Chocolate 3 Plus Nutrition Supplement 900 g"
+    },
+    "ar": {
+      "name": "بدياشور 3+  غذاء تكميلي بنكهة الشوكولاتة 900 جم"
+    }
+  },
+  "100S979212140": {
+    "sku": "100S979212140",
+    "brand": "Pediasure 3+",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-saudi/400gm-vanilla-removebg.png",
+    "en": {
+      "name": "Pediasure Vanilla 3 Plus Nutrition Supplement 400 g"
+    },
+    "ar": {
+      "name": "بدياشور 3+  غذاء تكميلي بنكهة الفانيلا 400 جم"
+    }
+  },
+  "100S979212152": {
+    "sku": "100S979212152",
+    "brand": "Pediasure 3+",
+    "points": 900,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-saudi/900gm-vanilla-PhotoRoom.png-PhotoRoom.png",
+    "en": {
+      "name": "Pediasure Vanilla 3 Plus Nutrition Supplement 900 g"
+    },
+    "ar": {
+      "name": "بدياشور 3+  غذاء تكميلي بنكهة الفانيلا 900 جم"
+    }
+  },
+  "100S979212160": {
+    "sku": "100S979212160",
+    "brand": "Pediasure 3+",
+    "points": 1600,
+    "weightInGrams": 1600,
+    "image-url": "/product_images/abbott-saudi/1600gm-vanilla-PhotoRoom.png-PhotoRoom.png",
+    "en": {
+      "name": "Pediasure Vanilla 3 Plus Nutrition Supplement 1600 g"
+    },
+    "ar": {
+      "name": "بدياشور 3+  غذاء تكميلي بنكهة الفانيلا 1600جم"
+    }
+  }
+}

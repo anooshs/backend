@@ -1,0 +1,3338 @@
+{
+  "20029008": {
+    "sku": "20029008",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20029009": {
+    "sku": "20029009",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20031236": {
+    "sku": "20031236",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20031237": {
+    "sku": "20031237",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20033142": {
+    "sku": "20033142",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20033155": {
+    "sku": "20033155",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20034267": {
+    "sku": "20034267",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20036696": {
+    "sku": "20036696",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20036728": {
+    "sku": "20036728",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20036729": {
+    "sku": "20036729",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20036730": {
+    "sku": "20036730",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20037400": {
+    "sku": "20037400",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "20037488": {
+    "sku": "20037488",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20038117": {
+    "sku": "20038117",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "20039672": {
+    "sku": "20039672",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20039673": {
+    "sku": "20039673",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20039674": {
+    "sku": "20039674",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20039675": {
+    "sku": "20039675",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20039676": {
+    "sku": "20039676",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20039677": {
+    "sku": "20039677",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20040148": {
+    "sku": "20040148",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20040555": {
+    "sku": "20040555",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE STRAW 400G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20040954": {
+    "sku": "20040954",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 740g BIB Y21 Pack6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041088": {
+    "sku": "20041088",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 740g BIB P6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041114": {
+    "sku": "20041114",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_3Plus_Van_740g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 740g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041116": {
+    "sku": "20041116",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 3+ VANILLA  740g - Sample",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041120": {
+    "sku": "20041120",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC VAN740g Y21Up P3(1x3x4)_Z",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041125": {
+    "sku": "20041125",
+    "brand": "Pediasure",
+    "points": 180,
+    "weightInGrams": 1480,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_3Plus_Van_1480g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 1480g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041129": {
+    "sku": "20041129",
+    "brand": "Pediasure",
+    "points": 360,
+    "weightInGrams": 2220,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_3Plus_Van_2220g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 2220g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041213": {
+    "sku": "20041213",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041220": {
+    "sku": "20041220",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 740g BIB Y21 TOPS",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041221": {
+    "sku": "20041221",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC3+VAN740g Y21Up P3(1x3x4)_Z",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041226": {
+    "sku": "20041226",
+    "brand": "Pediasure",
+    "points": 160,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 1480g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041229": {
+    "sku": "20041229",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 740g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041244": {
+    "sku": "20041244",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041258": {
+    "sku": "20041258",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20041259": {
+    "sku": "20041259",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 400G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041262": {
+    "sku": "20041262",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041268": {
+    "sku": "20041268",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE STRAW 400G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041270": {
+    "sku": "20041270",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 1200g BIB HMB**",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041271": {
+    "sku": "20041271",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 1600g BIB HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041273": {
+    "sku": "20041273",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20041293": {
+    "sku": "20041293",
+    "brand": "Pediasure",
+    "points": 320,
+    "weightInGrams": 2220,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Van_2220g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 2220g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041304": {
+    "sku": "20041304",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP VAN 1200G BIB 3P Wolf",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041307": {
+    "sku": "20041307",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP VAN 1600G BIB 3P Wolf",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041355": {
+    "sku": "20041355",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VAN 1200G BIB - Gold",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041366": {
+    "sku": "20041366",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041368": {
+    "sku": "20041368",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041369": {
+    "sku": "20041369",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041373": {
+    "sku": "20041373",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850G (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041375": {
+    "sku": "20041375",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850G P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041376": {
+    "sku": "20041376",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850G P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041380": {
+    "sku": "20041380",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850Gx2 GP P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041381": {
+    "sku": "20041381",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20041412": {
+    "sku": "20041412",
+    "brand": "Pediasure",
+    "points": 160,
+    "weightInGrams": 1480,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Van_1480g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 1480g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041444": {
+    "sku": "20041444",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Van_740g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 740g BIB Y21 Pack12",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20041934": {
+    "sku": "20041934",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H WHT 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20041986": {
+    "sku": "20041986",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1600G BIB Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042017": {
+    "sku": "20042017",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042018": {
+    "sku": "20042018",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1200g BIB Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042028": {
+    "sku": "20042028",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB P6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20042033": {
+    "sku": "20042033",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 400g BIB HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042034": {
+    "sku": "20042034",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850g POP H",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042040": {
+    "sku": "20042040",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042042": {
+    "sku": "20042042",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20042044": {
+    "sku": "20042044",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB SP",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20042047": {
+    "sku": "20042047",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 400G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042055": {
+    "sku": "20042055",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 400G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042063": {
+    "sku": "20042063",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 400G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042073": {
+    "sku": "20042073",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 400G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042080": {
+    "sku": "20042080",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 850G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042081": {
+    "sku": "20042081",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20042103": {
+    "sku": "20042103",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 850G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20042128": {
+    "sku": "20042128",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20043137": {
+    "sku": "20043137",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1110G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043138": {
+    "sku": "20043138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 380G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043139": {
+    "sku": "20043139",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 380G WOLF",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043150": {
+    "sku": "20043150",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1480G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043151": {
+    "sku": "20043151",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 800G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043199": {
+    "sku": "20043199",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2220G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043200": {
+    "sku": "20043200",
+    "brand": "Ensure",
+    "points": 450,
+    "weightInGrams": 2960,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2960G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043277": {
+    "sku": "20043277",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1480G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043299": {
+    "sku": "20043299",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 2220G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043324": {
+    "sku": "20043324",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 380G P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20043423": {
+    "sku": "20043423",
+    "brand": "Pediasure",
+    "points": 45,
+    "weightInGrams": 400
+  },
+  "20044802": {
+    "sku": "20044802",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20044806": {
+    "sku": "20044806",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20044842": {
+    "sku": "20044842",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "20044844": {
+    "sku": "20044844",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "20044856": {
+    "sku": "20044856",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 800G P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045216": {
+    "sku": "20045216",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 380G WOLF P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045344": {
+    "sku": "20045344",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Pop_Van_2400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H VAN 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045348": {
+    "sku": "20045348",
+    "brand": "Ensure",
+    "points": 450,
+    "weightInGrams": 3200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 3200G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045349": {
+    "sku": "20045349",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE GOLD WHEAT 1600G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045354": {
+    "sku": "20045354",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H CHO 850G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045530": {
+    "sku": "20045530",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "20045531": {
+    "sku": "20045531",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "20045532": {
+    "sku": "20045532",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "20045533": {
+    "sku": "20045533",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "20045534": {
+    "sku": "20045534",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850G",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20045535": {
+    "sku": "20045535",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 400G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045537": {
+    "sku": "20045537",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850Gx2 GP P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20045847": {
+    "sku": "20045847",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 370g BIB Y21 Pack6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20045848": {
+    "sku": "20045848",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Van_370g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 370g BIB Y21 Pack24",
+      "brand-name": "Pediasure"
+    }
+  },
+  "20045942": {
+    "sku": "20045942",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1200G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045943": {
+    "sku": "20045943",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1600G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20045945": {
+    "sku": "20045945",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG Y23",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20046352": {
+    "sku": "20046352",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "20046353": {
+    "sku": "20046353",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "20046354": {
+    "sku": "20046354",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "20046355": {
+    "sku": "20046355",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "20046356": {
+    "sku": "20046356",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "20046450": {
+    "sku": "20046450",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "20046451": {
+    "sku": "20046451",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "20046477": {
+    "sku": "20046477",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "20047524": {
+    "sku": "20047524",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "20047526": {
+    "sku": "20047526",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "20051800": {
+    "sku": "20051800",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "20051801": {
+    "sku": "20051801",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "20055713": {
+    "sku": "20055713",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1110G BIB Gold",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20055718": {
+    "sku": "20055718",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1110G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "20056652": {
+    "sku": "20056652",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1110G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20056653": {
+    "sku": "20056653",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG Y24",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20056654": {
+    "sku": "20056654",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG-H Y24",
+      "brand-name": "Glucerna"
+    }
+  },
+  "20056760": {
+    "sku": "20056760",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 2220G",
+      "brand-name": "Ensure"
+    }
+  },
+  "20056762": {
+    "sku": "20056762",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1480G",
+      "brand-name": "Ensure"
+    }
+  },
+  "101149201": {
+    "sku": "101149201",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101149208": {
+    "sku": "101149208",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101156017": {
+    "sku": "101156017",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101156056": {
+    "sku": "101156056",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101158206": {
+    "sku": "101158206",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101158214": {
+    "sku": "101158214",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101158388": {
+    "sku": "101158388",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101158401": {
+    "sku": "101158401",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "",
+      "brand-name": "Ensure"
+    }
+  },
+  "101199158": {
+    "sku": "101199158",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101205641": {
+    "sku": "101205641",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "101205644": {
+    "sku": "101205644",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "th_ensure_1": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Gold_All_400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold All Flavour 400g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_2": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Gold_All_850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold All Flavour 850g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_3": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Gold_Van_1200g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 1200g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_4": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Gold_Van_1600g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 1600g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_5": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Gold_Van_2400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 2400g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_6": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Pop_All_400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Pop All Flavour 400g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_ensure_7": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/ensure/Ensure_Pop_All_850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Pop All Flavour 850g",
+      "brand-name": "Ensure"
+    }
+  },
+  "th_glucerna_1": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_Plus_Cereal_400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Plus Cereal 400g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_2": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_Plus_Cereal_850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Plus Cereal 850g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_3": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 400g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_4": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 850g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_5": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_1200g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 1200g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_6": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_400g_2.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 400g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_7": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_850g_2.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 850g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_glucerna_8": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/glucerna/Glucerna_SR_TC_Van_1200g_2.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna SR Triple Care Vanilla 1200g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "th_pediasure_1": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Plain_370g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure Plus Plain 370g",
+      "brand-name": "Pediasure"
+    }
+  },
+  "th_pediasure_2": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Plain_740g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure Plus Plain 740g",
+      "brand-name": "Pediasure"
+    }
+  },
+  "th_pediasure_3": {
+    "image-url": "assets/images/layout-three/thailand/sku-product/pediasure/Pediasure_Plus_Plain_1480g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure Plus Plain 1480g",
+      "brand-name": "Pediasure"
+    }
+  },
+  "100S617133385": {
+    "sku": "100S617133385",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850g POP H",
+      "brand-name": "Ensure"
+    }
+  },
+  "100S842233440": {
+    "sku": "100S842233440",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H WHT 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "100S434233171": {
+    "sku": "100S434233171",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1110G BIB Gold",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100S617133485": {
+    "sku": "100S617133485",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H CHO 850G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S434.727F2": {
+    "sku": "S434.727F2",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VAN 1200G BIB - Gold",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S792.171F7": {
+    "sku": "S792.171F7",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 370g BIB Y21 Pack24",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.171F8": {
+    "sku": "S792.171F8",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 370g BIB Y21 Pack6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.997F7": {
+    "sku": "S792.997F7",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 740g BIB Y21 Pack12",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.997F8": {
+    "sku": "S792.997F8",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 740g BIB Y21 Pack6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.997F9": {
+    "sku": "S792.997F9",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC VAN740g Y21Up P3(1x3x4)_Z",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.656F5": {
+    "sku": "S792.656F5",
+    "brand": "Pediasure",
+    "points": 160,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 1480g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.371F3": {
+    "sku": "S792.371F3",
+    "brand": "Pediasure",
+    "points": 320,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 1+ VAN 2220g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.997F7": {
+    "sku": "S836.997F7",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 740g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.997F8": {
+    "sku": "S836.997F8",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 740g BIB Y21 TOPS",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.997F9": {
+    "sku": "S836.997F9",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC3+VAN740g Y21Up P3(1x3x4)_Z",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.656F5": {
+    "sku": "S836.656F5",
+    "brand": "Pediasure",
+    "points": 180,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 1480g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.371F3": {
+    "sku": "S836.371F3",
+    "brand": "Pediasure",
+    "points": 360,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDC 3+ VAN 2220g BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S836.997S1": {
+    "sku": "S836.997S1",
+    "brand": "Pediasure",
+    "points": 90,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 3+ VANILLA  740g - Sample",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S907.727F1": {
+    "sku": "S907.727F1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 1200g BIB HMB**",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.912F1": {
+    "sku": "S907.912F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 1600g BIB HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.140F3": {
+    "sku": "S907.140F3",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE VAN 400g BIB HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.140F1": {
+    "sku": "Y483.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 400G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.140F2": {
+    "sku": "Y483.140F2",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 400G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.101F1": {
+    "sku": "Y483.101F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.101F2": {
+    "sku": "Y483.101F2",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.140F1": {
+    "sku": "Y484.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE STRAW 400G HMB",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.140F2": {
+    "sku": "Y484.140F2",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE STRAW 400G HMB P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y496.171F1": {
+    "sku": "Y496.171F1",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "Y496.997F1": {
+    "sku": "Y496.997F1",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 740g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "Y496.656F1": {
+    "sku": "Y496.656F1",
+    "brand": "Pediasure",
+    "points": 160,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 1480g BIB",
+      "brand-name": "Pediasure"
+    }
+  },
+  "Y496.171F2": {
+    "sku": "Y496.171F2",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB P6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "Y496.997F2": {
+    "sku": "Y496.997F2",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 740g BIB P6",
+      "brand-name": "Pediasure"
+    }
+  },
+  "Y496.171S4": {
+    "sku": "Y496.171S4",
+    "brand": "Pediasure",
+    "points": 40,
+    "weightInGrams": 370,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PDS VAN Petronas 370g BIB SP",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S616.727F3": {
+    "sku": "S616.727F3",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP VAN 1200G BIB 3P Wolf",
+      "brand-name": "Ensure"
+    }
+  },
+  "S616.912F3": {
+    "sku": "S616.912F3",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP VAN 1600G BIB 3P Wolf",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y524.101F6": {
+    "sku": "Y524.101F6",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850G (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.101F7": {
+    "sku": "Y524.101F7",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850G P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.994F2": {
+    "sku": "Y524.994F2",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 850Gx2 GP P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.140F4": {
+    "sku": "Y524.140F4",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.140F5": {
+    "sku": "Y524.140F5",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G P6 (TH)",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.101F1": {
+    "sku": "Y524.101F1",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850G",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.101F2": {
+    "sku": "Y524.101F2",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850G P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.994F1": {
+    "sku": "Y524.994F1",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 850Gx2 GP P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.140F1": {
+    "sku": "Y524.140F1",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN WHT 400G",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y524.140F6": {
+    "sku": "Y524.140F6",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN GLA WHT 400G P6",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S617.101F5": {
+    "sku": "S617.101F5",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE CHOC 850g POP H",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.727F2": {
+    "sku": "S907.727F2",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1200g BIB Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S956.727F2": {
+    "sku": "S956.727F2",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1200g BIB Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.912F2": {
+    "sku": "S907.912F2",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1600G BIB Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.340F2": {
+    "sku": "S907.340F2",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S956.340F2": {
+    "sku": "S956.340F2",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S842.340F2": {
+    "sku": "S842.340F2",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H WHT 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S616.340F6": {
+    "sku": "S616.340F6",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H VAN 2400G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S956.912F1": {
+    "sku": "S956.912F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENSURE GOLD WHEAT 1600G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.140F4": {
+    "sku": "Y483.140F4",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 400G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.140F5": {
+    "sku": "Y483.140F5",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 400G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.101F4": {
+    "sku": "Y483.101F4",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 850G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.101F5": {
+    "sku": "Y483.101F5",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 850G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.140F4": {
+    "sku": "Y484.140F4",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 400G WOLF Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.140F5": {
+    "sku": "Y484.140F5",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 400G WOLF P6 Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.960F1": {
+    "sku": "S907.960F1",
+    "brand": "Ensure",
+    "points": 450,
+    "weightInGrams": 3200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 3200G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y576.727F1": {
+    "sku": "Y576.727F1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1200G",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y576.912F1": {
+    "sku": "Y576.912F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1600G",
+      "brand-name": "Ensure"
+    }
+  },
+  "S434.727F4": {
+    "sku": "S434.727F4",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG Y23",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S434.655F1": {
+    "sku": "S434.655F1",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1110G BIB Gold",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S956.655F1": {
+    "sku": "S956.655F1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1110G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S956.656F1": {
+    "sku": "S956.656F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 1480G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S956.371F1": {
+    "sku": "S956.371F1",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB WHT 2220G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.655F1": {
+    "sku": "S907.655F1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1110G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.656F1": {
+    "sku": "S907.656F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 1480G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.371F1": {
+    "sku": "S907.371F1",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2220G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.65IF1": {
+    "sku": "S907.65IF1",
+    "brand": "Ensure",
+    "points": 450,
+    "weightInGrams": 2960,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB VAN 2960G BIB",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.138F1": {
+    "sku": "Y484.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 380G WOLF",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y484.138F2": {
+    "sku": "Y484.138F2",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB STW 380G WOLF P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.153F1": {
+    "sku": "Y483.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 800G",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.153F2": {
+    "sku": "Y483.153F2",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 800G P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.138F1": {
+    "sku": "Y483.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 380G",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y483.138F2": {
+    "sku": "Y483.138F2",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB CHO 380G P6",
+      "brand-name": "Ensure"
+    }
+  },
+  "S434.727F5": {
+    "sku": "S434.727F5",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG Y24",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S434.727F6": {
+    "sku": "S434.727F6",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "GCN VAN 1200G White BAG-H Y24",
+      "brand-name": "Glucerna"
+    }
+  },
+  "Y576.655F1": {
+    "sku": "Y576.655F1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1110,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1110G",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y576.656F1": {
+    "sku": "Y576.656F1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 1480G",
+      "brand-name": "Ensure"
+    }
+  },
+  "Y576.371F1": {
+    "sku": "Y576.371F1",
+    "brand": "Ensure",
+    "points": 300,
+    "weightInGrams": 2220,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS HMB ALM 2220G",
+      "brand-name": "Ensure"
+    }
+  },
+  "S792.656T3": {
+    "sku": "S792.656T3",
+    "brand": "Pediasure",
+    "points": 160,
+    "weightInGrams": 1480,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "SS-PDS 1+ VAN 1480G BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S792.997T3": {
+    "sku": "S792.997T3",
+    "brand": "Pediasure",
+    "points": 80,
+    "weightInGrams": 740,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "SS-PDS 1+ VAN 740G BIB Y21",
+      "brand-name": "Pediasure"
+    }
+  },
+  "S616.727T1": {
+    "sku": "S616.727T1",
+    "brand": "Ensure",
+    "points": 150,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "SS-ENS POP VAN1200G BIB 3PWolf",
+      "brand-name": "Ensure"
+    }
+  },
+  "S434.727T1": {
+    "sku": "S434.727T1",
+    "brand": "Glucerna",
+    "points": 180,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "SS-GCN VAN 1200G White AMS",
+      "brand-name": "Glucerna"
+    }
+  },
+  "S616.912T1": {
+    "sku": "S616.912T1",
+    "brand": "Ensure",
+    "points": 200,
+    "weightInGrams": 1600,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "SS-ENS POP VAN 1600G BIB 3P WOLF",
+      "brand-name": "Ensure"
+    }
+  },
+  "S617.101F7": {
+    "sku": "S617.101F7",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "ENS POP H CHO 850G Y23",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.657F1": {
+    "sku": "S907.657F1",
+    "brand": "Ensure",
+    "points": 250,
+    "weightInGrams": 1850,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 1850g",
+      "brand-name": "Ensure"
+    }
+  },
+  "S907.82EF1": {
+    "sku": "S907.82EF1",
+    "brand": "Ensure",
+    "points": 550,
+    "weightInGrams": 3700,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 3700g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100Y511223340": {
+    "sku": "100Y511223340",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100Y576223185": {
+    "sku": "100Y576223185",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S434.140FD": {
+    "sku": "S434.140FD",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "S434.727F3": {
+    "sku": "S434.727F3",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "S434.994FA": {
+    "sku": "S434.994FA",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 850
+  },
+  "S434.994FB": {
+    "sku": "S434.994FB",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 850
+  },
+  "S907.340F1": {
+    "sku": "S907.340F1",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 2400
+  },
+  "S956.727F1": {
+    "sku": "S956.727F1",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100S434233540": {
+    "sku": "100S434233540",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100S792233171": {
+    "sku": "100S792233171",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 370
+  },
+  "100S836233171": {
+    "sku": "100S836233171",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 740
+  },
+  "100S907233240": {
+    "sku": "100S907233240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100Y483833140": {
+    "sku": "100Y483833140",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "100Y483833185": {
+    "sku": "100Y483833185",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 850
+  },
+  "100Y484833140": {
+    "sku": "100Y484833140",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "100Y496233171": {
+    "sku": "100Y496233171",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 370
+  },
+  "100S616233240": {
+    "sku": "100S616233240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100Y524833185": {
+    "sku": "100Y524833185",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 850
+  },
+  "100Y524833140": {
+    "sku": "100Y524833140",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "100S956233240": {
+    "sku": "100S956233240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100Y483833240": {
+    "sku": "100Y483833240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "100Y483833285": {
+    "sku": "100Y483833285",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 850
+  },
+  "100Y484833240": {
+    "sku": "100Y484833240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 400
+  },
+  "100Y576233240": {
+    "sku": "100Y576233240",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "100S956233171": {
+    "sku": "100S956233171",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1110
+  },
+  "100S907233171": {
+    "sku": "100S907233171",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1110
+  },
+  "100Y484833138": {
+    "sku": "100Y484833138",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 380
+  },
+  "100Y483833153": {
+    "sku": "100Y483833153",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 800
+  },
+  "100Y483833138": {
+    "sku": "100Y483833138",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 380
+  },
+  "100Y576233171": {
+    "sku": "100Y576233171",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1110
+  },
+  "S792.171T3": {
+    "sku": "S792.171T3",
+    "brand": "Pediasure",
+    "points": 0,
+    "weightInGrams": 370
+  },
+  "S907.727T1": {
+    "sku": "S907.727T1",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1200
+  },
+  "S907.912T1": {
+    "sku": "S907.912T1",
+    "brand": "Ensure",
+    "points": 0,
+    "weightInGrams": 1600
+  },
+  "100S434233138": {
+    "sku": "100S434233138",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "100S434233153": {
+    "sku": "100S434233153",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "100S434233340": {
+    "sku": "100S434233340",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "100S434233385": {
+    "sku": "100S434233385",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "100S434233440": {
+    "sku": "100S434233440",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "100S434233485": {
+    "sku": "100S434233485",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "100S616233285": {
+    "sku": "100S616233285",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S616233340": {
+    "sku": "100S616233340",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S616233385": {
+    "sku": "100S616233385",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S616233440": {
+    "sku": "100S616233440",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S616233485": {
+    "sku": "100S616233485",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S616233540": {
+    "sku": "100S616233540",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S792233240": {
+    "sku": "100S792233240",
+    "brand": "Pediasure",
+    "points": 45,
+    "weightInGrams": 400
+  },
+  "100S842233240": {
+    "sku": "100S842233240",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S842233285": {
+    "sku": "100S842233285",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S842233340": {
+    "sku": "100S842233340",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S842233385": {
+    "sku": "100S842233385",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S842233485": {
+    "sku": "100S842233485",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S842233540": {
+    "sku": "100S842233540",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S907233138": {
+    "sku": "100S907233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100S907233140": {
+    "sku": "100S907233140",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S907233153": {
+    "sku": "100S907233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100S907233185": {
+    "sku": "100S907233185",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S907233285": {
+    "sku": "100S907233285",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S907233340": {
+    "sku": "100S907233340",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S956233138": {
+    "sku": "100S956233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100S956233140": {
+    "sku": "100S956233140",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100S956233153": {
+    "sku": "100S956233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100S956233185": {
+    "sku": "100S956233185",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S956233285": {
+    "sku": "100S956233285",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S956233340": {
+    "sku": "100S956233340",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100Y511233138": {
+    "sku": "100Y511233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100Y511233140": {
+    "sku": "100Y511233140",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100Y511233153": {
+    "sku": "100Y511233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100Y511233185": {
+    "sku": "100Y511233185",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100Y511233240": {
+    "sku": "100Y511233240",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100Y511233285": {
+    "sku": "100Y511233285",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100Y524233138": {
+    "sku": "100Y524233138",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "100Y524233153": {
+    "sku": "100Y524233153",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "100Y576233138": {
+    "sku": "100Y576233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100Y576233140": {
+    "sku": "100Y576233140",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "100Y576233153": {
+    "sku": "100Y576233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100Y576233185": {
+    "sku": "100Y576233185",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "100S616233138": {
+    "sku": "100S616233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100S616233153": {
+    "sku": "100S616233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100S842233138": {
+    "sku": "100S842233138",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "100S842233153": {
+    "sku": "100S842233153",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "100Y524233140": {
+    "sku": "100Y524233140",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "100Y524233185": {
+    "sku": "100Y524233185",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "S434.138F1": {
+    "sku": "S434.138F1",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "S434.153F1": {
+    "sku": "S434.153F1",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "S434.140FC": {
+    "sku": "S434.140FC",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "S434.101FC": {
+    "sku": "S434.101FC",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "S434.140FE": {
+    "sku": "S434.140FE",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "S434.101FE": {
+    "sku": "S434.101FE",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  },
+  "S616.101F6": {
+    "sku": "S616.101F6",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S616.140FA": {
+    "sku": "S616.140FA",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S616.101F5": {
+    "sku": "S616.101F5",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S616.140F7": {
+    "sku": "S616.140F7",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S616.101F9": {
+    "sku": "S616.101F9",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S616.140FC": {
+    "sku": "S616.140FC",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S792.140F4": {
+    "sku": "S792.140F4",
+    "brand": "Pediasure",
+    "points": 45,
+    "weightInGrams": 400
+  },
+  "S842.140FA": {
+    "sku": "S842.140FA",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S842.101F5": {
+    "sku": "S842.101F5",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S842.140F7": {
+    "sku": "S842.140F7",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S842.101F4": {
+    "sku": "S842.101F4",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S842.101F7": {
+    "sku": "S842.101F7",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S842.140FD": {
+    "sku": "S842.140FD",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S907.138F1": {
+    "sku": "S907.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "S907.140F1": {
+    "sku": "S907.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S907.153F1": {
+    "sku": "S907.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "S907.101F1": {
+    "sku": "S907.101F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S907.101F3": {
+    "sku": "S907.101F3",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S907.140F5": {
+    "sku": "S907.140F5",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S956.138F1": {
+    "sku": "S956.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "S956.140F1": {
+    "sku": "S956.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "S956.153F1": {
+    "sku": "S956.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "S956.101F1": {
+    "sku": "S956.101F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S956.101F3": {
+    "sku": "S956.101F3",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S956.140F4": {
+    "sku": "S956.140F4",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "Y511.138F1": {
+    "sku": "Y511.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "Y511.140F1": {
+    "sku": "Y511.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "Y511.153F1": {
+    "sku": "Y511.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "Y511.101F1": {
+    "sku": "Y511.101F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "Y511.140F7": {
+    "sku": "Y511.140F7",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "Y511.101F2": {
+    "sku": "Y511.101F2",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "Y524.138R1": {
+    "sku": "Y524.138R1",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 380
+  },
+  "Y524.153R1": {
+    "sku": "Y524.153R1",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 800
+  },
+  "Y576.138F1": {
+    "sku": "Y576.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "Y576.140F1": {
+    "sku": "Y576.140F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "Y576.153F1": {
+    "sku": "Y576.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "Y576.101F1": {
+    "sku": "Y576.101F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 850
+  },
+  "S616.138F1": {
+    "sku": "S616.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "S616.153F1": {
+    "sku": "S616.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "S843.138F1": {
+    "sku": "S843.138F1",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 380
+  },
+  "S842.153F1": {
+    "sku": "S842.153F1",
+    "brand": "Ensure",
+    "points": 110,
+    "weightInGrams": 800
+  },
+  "Y483.140F3": {
+    "sku": "Y483.140F3",
+    "brand": "Ensure",
+    "points": 50,
+    "weightInGrams": 400
+  },
+  "Y524.140F7": {
+    "sku": "Y524.140F7",
+    "brand": "Glucerna",
+    "points": 60,
+    "weightInGrams": 400
+  },
+  "Y524.101F8": {
+    "sku": "Y524.101F8",
+    "brand": "Glucerna",
+    "points": 130,
+    "weightInGrams": 850
+  }
+}

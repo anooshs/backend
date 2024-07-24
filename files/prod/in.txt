@@ -1,0 +1,337 @@
+{
+  "100S862L84220": {
+    "sku": "100S862L84220",
+    "brand": "EDC",
+    "points": 200,
+    "weightInGrams": 200,
+    "image-url": "assets/product_images/abbott-india/EDC-vanilla-200g.png",
+    "buy-now-url": "https://www.1mg.com/otc/ensure-diabetes-care-vanilla-delight-powder-otc552950",
+    "en": {
+      "name": "Ensure Diabetes Care Vanilla 200g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S786L84220": {
+    "sku": "100S786L84220",
+    "brand": "EDC",
+    "points": 200,
+    "weightInGrams": 200,
+    "image-url": "assets/product_images/abbott-india/EDC-chocolate-200g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetes-Care-Adult-Nutrition/dp/B075WVQSVJ/ref=sr_1_1?crid=13NIB8BJC22L4&keywords=Ensure+Diabetes+Care-+Nutrition+to+Help+Control+Blood+Sugar+Levels-+200+g+%28Chocolate+Flavour%29&qid=1687520060&s=hpc&sprefix=ensure+diabetes+care-+nutrition+to+help+control+blood+sugar+levels-+200+g+chocolate+flavour+%2Chpc%2C255&sr=1-1",
+    "en": {
+      "name": "Ensure Diabetes Care Chocolate 200g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S862L84240": {
+    "sku": "100S862L84240",
+    "brand": "EDC",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "assets/product_images/abbott-india/EDC-vanilla-400g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetes-Nutrition-Control-Levels/dp/B09TDRJP4Z/ref=sr_1_2_mod_primary_new?keywords=Ensure&qid=1687519698&refinements=p_89%3AEnsure&rnid=3576079031&s=hpc&sr=1-2",
+    "en": {
+      "name": "Ensure Diabetes Care Vanilla 400g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S786L84240": {
+    "sku": "100S786L84240",
+    "brand": "EDC",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "assets/product_images/abbott-india/EDC-chocolate-400g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetes-Nutrition-Control-Chocolate/dp/B09TDNVD66/ref=sr_1_3?keywords=Ensure&qid=1687519698&refinements=p_89%3AEnsure&rnid=3576079031&s=hpc&sr=1-3",
+    "en": {
+      "name": "Ensure Diabetes Care Chocolate 400g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S862L84261": {
+    "sku": "100S862L84261",
+    "brand": "EDC",
+    "points": 1000,
+    "weightInGrams": 1000,
+    "image-url": "assets/product_images/abbott-india/EDC-vanilla-1kg.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetic-Vanilla-1-kg/dp/B0C3L3HRJZ/ref=sr_1_1?keywords=Ensure&qid=1687519698&refinements=p_89%3AEnsure&rnid=3576079031&s=hpc&sr=1-1&th=1",
+    "en": {
+      "name": "Ensure Diabetes Care Vanilla 1000g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S786L84261": {
+    "sku": "100S786L84261",
+    "brand": "EDC",
+    "points": 1000,
+    "weightInGrams": 1000,
+    "image-url": "assets/product_images/abbott-india/EDC-chocolate-1kg.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetes-Care-Nutrition-Chocolate/dp/B0BL3WZB5W/ref=sr_1_2?crid=23JY2WZNB1UJC&keywords=Ensure+Diabetes+Care-+Nutrition+to+Help+Control+Blood+Sugar+Levels-+1+Kg+%28Chocolate+Flavour%29&qid=1687520012&s=hpc&sprefix=ensure+diabetes+care-+nutrition+to+help+control+blood+sugar+levels-+1+kg+chocolate+flavour+%2Chpc%2C300&sr=1-2",
+    "en": {
+      "name": "Ensure Diabetes Care Chocolate 1000g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100S862L842E2": {
+    "sku": "100S862L842E2",
+    "brand": "EDC",
+    "points": 2000,
+    "weightInGrams": 2000,
+    "image-url": "assets/product_images/abbott-india/EDC-vanilla-2kg.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Diabetic-Vanilla-1-kg/dp/B0BL3Z42D3/ref=sr_1_1?keywords=Ensure&qid=1687519698&refinements=p_89%3AEnsure&rnid=3576079031&s=hpc&sr=1-1&th=1",
+    "en": {
+      "name": "Ensure Diabetes Care  Vanilla 2000g",
+      "brand-name": "ENSURE DIABETES CARE"
+    }
+  },
+  "100F285L84220": {
+    "sku": "100F285L84220",
+    "brand": "ENSURE BASE",
+    "points": 200,
+    "weightInGrams": 200,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-vanilla-200g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Complete-Balanced-Nutrition-Adults/dp/B01B4BQFDY?ref_=ast_sto_dp",
+    "en": {
+      "name": "Ensure Vanilla 200g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F286L84220": {
+    "sku": "100F286L84220",
+    "brand": "ENSURE BASE",
+    "points": 200,
+    "weightInGrams": 200,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-chocolate 200g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Complete-Balanced-Nutrition-Adults/dp/B06X9JJXSP?ref_=ast_sto_dp&th=1",
+    "en": {
+      "name": "Ensure Chocolate 200g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F285L84240": {
+    "sku": "100F285L84240",
+    "brand": "ENSURE BASE",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-vanilla-400g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Complete-Balanced-Nutrition-Strength/dp/B09TB9JKTG/ref=sr_1_5_f3_mod_primary_alm?crid=134FOJDJ9S8P0&keywords=ensure&qid=1687520395&sprefix=ensure%2B%2Caps%2C262&sr=8-5&th=1",
+    "en": {
+      "name": "Ensure Vanilla 400g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F286L84240": {
+    "sku": "100F286L84240",
+    "brand": "ENSURE BASE",
+    "points": 400,
+    "weightInGrams": 400,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-chocolate 400g.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Complete-Balanced-Nutrition-Adults/dp/B006QQQUEW?ref_=ast_sto_dp&th=1",
+    "en": {
+      "name": "Ensure Chocolate 400g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F285L84261": {
+    "sku": "100F285L84261",
+    "brand": "ENSURE BASE",
+    "points": 1000,
+    "weightInGrams": 1000,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-vanilla-1kg.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Complete-Balanced-Nutrition-Adults/dp/B00IFWE39Y/ref=sr_1_1_sspa?crid=3GBZC7DK7JT3D&keywords=Ensure%2B-%2B200%2Bg%2B(Chocolate%2BFlavour)&qid=1687520259&s=hpc&sprefix=ensure%2B-%2B200%2Bg%2Bchocolate%2Bflavour%2B%2Chpc%2C252&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "en": {
+      "name": "Ensure Vanilla 1000g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F286L84261": {
+    "sku": "100F286L84261",
+    "brand": "ENSURE BASE",
+    "points": 2000,
+    "weightInGrams": 1000,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-chocolate 1kg.png",
+    "buy-now-url": "https://www.amazon.in/Complete-Nutrition-immunity-nutrients-Chocolate/dp/B0BLZK3PNM/ref=sr_1_5_mod_primary_new",
+    "en": {
+      "name": "Ensure Chocolate 1000g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100F285L842E2": {
+    "sku": "100F285L842E2",
+    "brand": "ENSURE BASE",
+    "points": 2000,
+    "weightInGrams": 2000,
+    "image-url": "assets/product_images/abbott-india/ensure-HMB-vanilla-2kg.png",
+    "buy-now-url": "https://www.amazon.in/Ensure-Nutrition-2kg-Vanilla-Essential/dp/B09NTTJRKJ/ref=sr_1_4_mod_primary_new",
+    "en": {
+      "name": "Ensure Vanilla 2000g",
+      "brand-name": "Ensure"
+    }
+  },
+  "100J069L84120": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 200gm BIJ",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84120": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 200gm BIJ",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84220": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Vanilla-200g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 200gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84220": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Chocolate-200g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 200gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J071L84220": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-KB-200g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Kesar Badam ML2 200gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84140": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 400gm BIJ",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84140": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 400gm BIJ",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84240": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Vanilla-400g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 400gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84240": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Chocolate-400g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 400gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84263": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Vanilla-750g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 750gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84263": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Chocolate-750g-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 750gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84261": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Vanilla-1kg-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 1000gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84261": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Chocolate-1kg-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 1000gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L84209": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 22gm SACH",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L84209": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 22gm SACH",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L841A2": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 22X12gm SACH",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L841A2": {
+    "image-url": "",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 22X12gm SACH",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J069L842E2": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Vanilla-2kg-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Vanilla ML2 2000gm BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "100J070L842E2": {
+    "image-url": "assets/product_images/abbott-india/PediaSure-ML2-Chocolate-2kg-BIB.png",
+    "buy-now-url": "",
+    "en": {
+      "name": "Pediasure Chocolate ML2 2000 GM BIB",
+      "brand-name": "pediasure"
+    }
+  },
+  "amazon pay": {
+    "image-url": "assets/product_images/abbott-india/vendor-images/amazonpay.png"
+  },
+  "amazon": {
+    "image-url": "assets/product_images/abbott-india/vendor-images/amazon.png"
+  },
+  "tata 1mg": {
+    "image-url": "assets/product_images/abbott-india/vendor-images/tata.png"
+  },
+  "apollo online": {
+    "image-url": "assets/product_images/abbott-india/vendor-images/Apollo247.jpg"
+  },
+  "apollo offline": {
+    "image-url": "assets/product_images/abbott-india/vendor-images/ApolloPharmacy.jpg"
+  }
+}

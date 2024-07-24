@@ -1,0 +1,122 @@
+{
+  "100S975285140": {
+    "sku": "100S975285140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_400_Vanilla2.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 400g"
+    }
+  },
+  "100S975285152": {
+    "sku": "100S975285152",
+    "brand": "Pediasure",
+    "points": 25,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_900_Vanilla.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 900g"
+    }
+  },
+  "100S975285160": {
+    "sku": "100S975285160",
+    "brand": "Pediasure",
+    "points": 45,
+    "weightInGrams": 1600,
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_1600_Vanilla.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 1600g"
+    }
+  },
+  "100S976285140": {
+    "sku": "100S976285140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_400_Chocolate2.png",
+    "en": {
+      "name": "PediaSure 1+ Chocolate 400g"
+    }
+  },
+  "100S976285152": {
+    "sku": "100S976285152",
+    "brand": "Pediasure",
+    "points": 25,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_900_Chocolate.png",
+    "en": {
+      "name": "PediaSure 1+ Chocolate 900g"
+    }
+  },
+  "100S979285140": {
+    "sku": "100S979285140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/pediasure3-vainilla-400-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Vanilla, 400g"
+    }
+  },
+  "100S979285152": {
+    "sku": "100S979285152",
+    "brand": "Pediasure",
+    "points": 25,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-kuwait/pediasure3-vainilla-900-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Vanilla 900g"
+    }
+  },
+  "100S980285140": {
+    "sku": "100S980285140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/pediasure3-chocolate-400-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Chocolate 400g"
+    }
+  },
+  "100S980285152": {
+    "sku": "100S980285152",
+    "brand": "Pediasure",
+    "points": 25,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-kuwait/pediasure3-chocolate-900-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Chocolate 900g"
+    }
+  },
+  "100S792220140": {
+    "sku": "100S792220140",
+    "brand": "Pediasure",
+    "points": 25,
+    "weightInGrams": 900,
+    "image-url": "/product_images/abbott-kuwait/pediasure-900-vanilla-kw.jpg",
+    "en": {
+      "name": "PediaSure Vanilla 900g"
+    }
+  },
+  "100S794220140": {
+    "sku": "100S794220140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/pediasure-400-strawberry-kw.jpg",
+    "en": {
+      "name": "PediaSure Strawberry 400g"
+    }
+  },
+  "100S793220140": {
+    "sku": "100S793220140",
+    "brand": "Pediasure",
+    "points": 10,
+    "weightInGrams": 400,
+    "image-url": "/product_images/abbott-kuwait/pediasure-400-chocolate-kw.jpg",
+    "en": {
+      "name": "PediaSure Chocolate 400g"
+    }
+  }
+}

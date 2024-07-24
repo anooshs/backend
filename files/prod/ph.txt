@@ -1,0 +1,386 @@
+{
+  "20032004": {
+    "sku": "20032004",
+    "brand": "Ensure",
+    "points": 70,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-one/philippines/20032004.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "20032018": {
+    "sku": "20032018",
+    "brand": "Ensure",
+    "points": 100,
+    "weightInGrams": 1600,
+    "image-url": "assets/images/layout-one/philippines/20032018.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 1600g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "20033601": {
+    "sku": "20033601",
+    "brand": "Ensure",
+    "points": 30,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/20033601.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "20037387": {
+    "sku": "20037387",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/20037387.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20037404": {
+    "sku": "20037404",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/20037404.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Chocolate 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20037492": {
+    "sku": "20037492",
+    "brand": "Glucerna",
+    "points": 125,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-one/philippines/20037492.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 900g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20042200": {
+    "sku": "20042200",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/20042200.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20042210": {
+    "sku": "20042210",
+    "brand": "Glucerna",
+    "points": 125,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-one/philippines/20042210.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 900g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20042211": {
+    "sku": "20042211",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/20042211.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Chocolate 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "20042270": {
+    "sku": "20042270",
+    "brand": "Similac",
+    "points": 100,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 2400g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "20042350": {
+    "sku": "20042350",
+    "brand": "Pediasure",
+    "points": 100,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE PLUS VANILLA 6X400G",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "20042410": {
+    "sku": "20042410",
+    "brand": "Similac",
+    "points": 75,
+    "weightInGrams": 1800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 1800g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "20042561": {
+    "sku": "20042561",
+    "brand": "Pediasure",
+    "points": 50,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE PLUS VAN 3x400G BIB",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100S907230K60": {
+    "sku": "100S907230K60",
+    "brand": "Ensure",
+    "points": 100,
+    "weightInGrams": 1600,
+    "image-url": "assets/images/layout-one/philippines/100S907230K60.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold 1600g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S907230K85": {
+    "sku": "100S907230K85",
+    "brand": "Ensure",
+    "points": 70,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-one/philippines/100S907230K85.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S907230K40": {
+    "sku": "100S907230K40",
+    "brand": "Ensure",
+    "points": 30,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/100S907230K40.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y495230152": {
+    "sku": "100Y495230152",
+    "brand": "Glucerna",
+    "points": 125,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-one/philippines/100Y495230152.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 900g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "Y495.152R6": {
+    "sku": "Y495.152R6",
+    "brand": "Glucerna",
+    "points": 125,
+    "weightInGrams": 900,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 900g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y495230140": {
+    "sku": "100Y495230140",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/100Y495230140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "Y495.140R6": {
+    "sku": "Y495.140R6",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y523230140": {
+    "sku": "100Y523230140",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/100Y523230140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Chocolate 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "Y523.140R6": {
+    "sku": "Y523.140R6",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Chocolate 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y495830P52": {
+    "sku": "100Y495830P52",
+    "brand": "Glucerna",
+    "points": 125,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-one/philippines/100Y495830P52.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 900g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y495830P40": {
+    "sku": "100Y495830P40",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/100Y495830P40.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y523830P40": {
+    "sku": "100Y523830P40",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-one/philippines/100Y523830P40.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Chocolate 400g",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "S979.727": {
+    "sku": "S979.727",
+    "brand": "Pediasure",
+    "points": 50,
+    "weightInGrams": 1200,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE PLUS VAN 3x400G BIB",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "S979.340": {
+    "sku": "S979.340",
+    "brand": "Pediasure",
+    "points": 100,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE PLUS VANILLA 6X400G",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "Y679.682": {
+    "sku": "Y679.682",
+    "brand": "Similac",
+    "points": 75,
+    "weightInGrams": 1800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 1800g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y679030145": {
+    "sku": "100Y679030145",
+    "brand": "Similac",
+    "points": 75,
+    "weightInGrams": 1800,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 1800g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "Y679.340": {
+    "sku": "Y679.340",
+    "brand": "Similac",
+    "points": 100,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 2400g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y679030140": {
+    "sku": "100Y679030140",
+    "brand": "Similac",
+    "points": 100,
+    "weightInGrams": 2400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac gain 2400g",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y524830P40": {
+    "sku": "100Y524830P40",
+    "brand": "Glucerna",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Wheat 400g",
+      "brand-name": "GLUCERNA"
+    }
+  }
+}

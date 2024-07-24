@@ -1,0 +1,194 @@
+{
+  "GL03VM": {
+    "sku": "GL03VM",
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-five/product-images/100Y495271285.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 850gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL03VS": {
+    "sku": "GL03VS",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-five/product-images/100Y495271240.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL03WS": {
+    "sku": "GL03WS",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-five/product-images/100Y524271140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Wheat 400gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL03WM": {
+    "sku": "GL03WM",
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-five/product-images/100Y524271185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Wheat 850gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL04VS": {
+    "sku": "GL04VS",
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 380,
+    "image-url": "assets/images/layout-five/product-images/100Y495271138.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 380gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL04VM": {
+    "sku": "GL04VM",
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-five/product-images/100Y495271153.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 800gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y495271285": {
+    "image-url": "assets/images/layout-five/product-images/100Y495271285.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 850gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y495271240": {
+    "image-url": "assets/images/layout-five/product-images/100Y495271240.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y524271140": {
+    "image-url": "assets/images/layout-five/product-images/100Y524271140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Wheat 400gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y524271185": {
+    "image-url": "assets/images/layout-five/product-images/100Y524271185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Wheat 850gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y495271138": {
+    "image-url": "assets/images/layout-five/product-images/100Y495271138.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 380gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y495271153": {
+    "image-url": "assets/images/layout-five/product-images/100Y495271153.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 800gr",
+      "brand-name": "Glucerna"
+    }
+  },
+  "GL01VM_100Y495871185101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL01VM_100Y495871185101"
+  },
+  "GL01VS_100Y495871140140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL01VS_100Y495871140140"
+  },
+  "GL01WM_100Y524871185101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL01WM_100Y524871185101"
+  },
+  "GL01WS_100Y524871140140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL01WS_100Y524871140140"
+  },
+  "GL02VM_100Y495871285101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL02VM_100Y495871285101"
+  },
+  "GL02VS_100Y495871240140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL02VS_100Y495871240140"
+  },
+  "GL02WM_100Y524871285101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL02WM_100Y524871285101"
+  },
+  "GL02WS_100Y524871240140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL02WS_100Y524871240140"
+  },
+  "GL03VM_100Y495271285101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL03VM_100Y495271285101"
+  },
+  "GL03VS_100Y495271240140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL03VS_100Y495271240140"
+  },
+  "GL03WM_100Y524271185101": {
+    "brand": "Glucerna",
+    "points": 100,
+    "weightInGrams": 850,
+    "sku": "GL03WM_100Y524271185101"
+  },
+  "GL03WS_100Y524271140140": {
+    "brand": "Glucerna",
+    "points": 50,
+    "weightInGrams": 400,
+    "sku": "GL03WS_100Y524271140140"
+  }
+}

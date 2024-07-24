@@ -1,0 +1,74 @@
+{
+  "100S975285140": {
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_400_Vanilla2.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 400g"
+    }
+  },
+  "100S975285152": {
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_900_Vanilla.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 900g"
+    }
+  },
+  "100S975285160": {
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_1600_Vanilla.png",
+    "en": {
+      "name": "PediaSure 1+ Vanilla, 1600g"
+    }
+  },
+  "100S976285140": {
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_400_Chocolate2.png",
+    "en": {
+      "name": "PediaSure 1+ Chocolate 400g"
+    }
+  },
+  "100S976285152": {
+    "image-url": "/product_images/abbott-kuwait/kw_pediasure1_900_Chocolate.png",
+    "en": {
+      "name": "PediaSure 1+ Chocolate 900g"
+    }
+  },
+  "100S979285140": {
+    "image-url": "/product_images/abbott-kuwait/pediasure3-vainilla-400-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Vanilla, 400g"
+    }
+  },
+  "100S979285152": {
+    "image-url": "/product_images/abbott-kuwait/pediasure3-vainilla-900-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Vanilla 900g"
+    }
+  },
+  "100S980285140": {
+    "image-url": "/product_images/abbott-kuwait/pediasure3-chocolate-400-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Chocolate 400g"
+    }
+  },
+  "100S980285152": {
+    "image-url": "/product_images/abbott-kuwait/pediasure3-chocolate-900-kw.png",
+    "en": {
+      "name": "PediaSure 3+ Chocolate 900g"
+    }
+  },
+  "100S792220140": {
+    "image-url": "/product_images/abbott-kuwait/pediasure-900-vanilla-kw.jpg",
+    "en": {
+      "name": "PediaSure Vanilla 900g"
+    }
+  },
+  "100S794220140": {
+    "image-url": "/product_images/abbott-kuwait/pediasure-400-strawberry-kw.jpg",
+    "en": {
+      "name": "PediaSure Strawberry 400g"
+    }
+  },
+  "100S793220140": {
+    "image-url": "/product_images/abbott-kuwait/pediasure-400-chocolate-kw.jpg",
+    "en": {
+      "name": "PediaSure Chocolate 400g"
+    }
+  }
+}

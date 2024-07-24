@@ -1,0 +1,434 @@
+{
+  "100S907291K40": {
+    "sku": "100S907291K40",
+    "brand": "Ensure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/ensure-vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S907291K85": {
+    "sku": "100S907291K85",
+    "brand": "Ensure",
+    "points": 31,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/ensure-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Vanilla 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S956226185": {
+    "sku": "100S956226185",
+    "brand": "Ensure",
+    "points": 31,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/ensure-wheat-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Wheat Flavor 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y650291140": {
+    "sku": "100Y650291140",
+    "brand": "Pediasure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-Vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Vanilla 400g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y650291185": {
+    "sku": "100Y650291185",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-850g-Vanilla.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Vanilla 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y653291185": {
+    "sku": "100Y653291185",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-3-Vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Vanilla 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y652291185": {
+    "sku": "100Y652291185",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-Stawbery-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Strawberry 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y655291140": {
+    "sku": "100Y655291140",
+    "brand": "Pediasure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-3-Stawbery-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Strawberry 400g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y6552D8240": {
+    "sku": "100Y6552D8240",
+    "brand": "Pediasure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-3-Stawbery-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Strawberry 400g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y496226185": {
+    "sku": "100Y496226185",
+    "brand": "Pediasure",
+    "points": 31,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/pediasure-milky-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure Petronas 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y534226185": {
+    "sku": "100Y534226185",
+    "brand": "Pediasure",
+    "points": 31,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-10-Vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 10+ Vanilla Powder 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y650291285": {
+    "sku": "100Y650291285",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-850g-Vanilla.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Vanilla 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y653291285": {
+    "sku": "100Y653291285",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-3-Vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Vanilla 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y650291240": {
+    "sku": "100Y650291240",
+    "brand": "Pediasure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-Vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Vanilla 400g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100Y652291285": {
+    "sku": "100Y652291285",
+    "brand": "Pediasure",
+    "points": 30,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/PediaSure-1-Stawbery-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 1+ Stawbery 850g",
+      "brand-name": "PEDIASURE"
+    }
+  },
+  "100S907291K2049": {
+    "sku": "100S907291K2049",
+    "brand": "Ensure",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/ensure-vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S950891383": {
+    "sku": "100S950891383",
+    "brand": "Similac Total Comfort",
+    "points": 33,
+    "weightInGrams": 820,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-total-comfort-stage3-820g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC TOTAL COMFORT 3 820G",
+      "brand-name": "SIMILAC TOTAL COMFORT"
+    }
+  },
+  "100S950891483": {
+    "sku": "100S950891483",
+    "brand": "Similac Total Comfort",
+    "points": 33,
+    "weightInGrams": 820,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-total-comfort-stage3-820g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC TOTAL COMFORT 3 820G",
+      "brand-name": "SIMILAC TOTAL COMFORT"
+    }
+  },
+  "100Y573091285": {
+    "sku": "100Y573091285",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage3-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 3 850G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y573091153": {
+    "sku": "100Y573091153",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage3-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 3 800G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100J098091153": {
+    "sku": "100J098091153",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage3-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 3 800G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y574091285": {
+    "sku": "100Y574091285",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage4-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 4 850G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y574091153": {
+    "sku": "100Y574091153",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage4-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 4 800G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y574091253": {
+    "sku": "100Y574091253",
+    "brand": "Similac",
+    "points": 26,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/SimilacStage4-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 4 800G",
+      "brand-name": "SIMILAC"
+    }
+  },
+  "100Y4952D8140": {
+    "sku": "100Y4952D8140",
+    "brand": "Glucerna",
+    "points": 19,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VANILLA 400G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y4952D8138": {
+    "sku": "100Y4952D8138",
+    "brand": "Glucerna",
+    "points": 19,
+    "weightInGrams": 380,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VANILLA 380G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y495291185": {
+    "sku": "100Y495291185",
+    "brand": "Glucerna",
+    "points": 38,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VANILLA 850G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y495291153": {
+    "sku": "100Y495291153",
+    "brand": "Glucerna",
+    "points": 38,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA VANILLA 800G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y524291185": {
+    "sku": "100Y524291185",
+    "brand": "Glucerna",
+    "points": 38,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA WHEAT 850G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100Y524226153": {
+    "sku": "100Y524226153",
+    "brand": "Glucerna",
+    "points": 38,
+    "weightInGrams": 800,
+    "image-url": "assets/images/layout-three/cambodia/product-image/glucerna-vanilla-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "GLUCERNA WHEAT 800G",
+      "brand-name": "GLUCERNA"
+    }
+  },
+  "100S875271340": {
+    "sku": "100S875271340",
+    "brand": "Similac Mum",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-strawberry-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM STRAWBERRY 400G",
+      "brand-name": "SIMILAC MUM"
+    }
+  },
+  "100S875271440": {
+    "sku": "100S875271440",
+    "brand": "Similac Mum",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-strawberry-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM STRAWBERRY 400G",
+      "brand-name": "SIMILAC MUM"
+    }
+  },
+  "100S348271540": {
+    "sku": "100S348271540",
+    "brand": "Similac Mum",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM VANILLA 400G",
+      "brand-name": "SIMILAC MUM"
+    }
+  },
+  "100S348271640": {
+    "sku": "100S348271640",
+    "brand": "Similac Mum",
+    "points": 15,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-vanilla-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM VANILLA 400G",
+      "brand-name": "SIMILAC MUM"
+    }
+  },
+  "100S348271552": {
+    "sku": "100S348271552",
+    "brand": "Similac Mum",
+    "points": 30,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-vanilla-900g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM VANILLA 900G",
+      "brand-name": "SIMILAC MUM"
+    }
+  },
+  "100S348271652": {
+    "sku": "100S348271652",
+    "brand": "Similac Mum",
+    "points": 30,
+    "weightInGrams": 900,
+    "image-url": "assets/images/layout-three/cambodia/product-image/similac-mum-vanilla-900g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC MUM VANILLA 900G",
+      "brand-name": "SIMILAC MUM"
+    }
+  }
+}

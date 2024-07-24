@@ -1,0 +1,518 @@
+{
+  "100Y6532D8240": {
+    "sku": "100Y6532D8240",
+    "brand": "Pediasure",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/pediasure/PediaSure_ML2_3-400gVanilla.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PediaSure 3+ Vanilla 400g",
+      "brand-name": "PediaSure"
+    }
+  },
+  "100Y6532D8285": {
+    "sku": "100Y6532D8285",
+    "brand": "Pediasure",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-images/pediasure/PediaSure_ML2_3-850gVanilla.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PediaSure 3+ Vanilla 850g",
+      "brand-name": "PediaSure"
+    }
+  },
+  "100Y6552D8140": {
+    "sku": "100Y6552D8140",
+    "brand": "Pediasure",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/pediasure/PediaSure_ML2_3-400gStrawberry.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Strawberry 400g",
+      "brand-name": "PediaSure"
+    }
+  },
+  "100Y4952D8140": {
+    "sku": "100Y4952D8140",
+    "brand": "Glucerna",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/glucerna/GlucernaGladitor400gVANILLA.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y4952D8185": {
+    "sku": "100Y4952D8185",
+    "brand": "Glucerna",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-images/glucerna/GlucernaGladitor850gVANILLA.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 850g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100S348271540": {
+    "sku": "100S348271540",
+    "brand": "Similac Mum",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacMumGoldVanilla400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Mum Vanilla 400g",
+      "brand-name": "Similac Mum"
+    }
+  },
+  "100S348271640": {
+    "sku": "100S348271640",
+    "brand": "Similac Mum",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacMumGoldVanilla400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Mum Vanilla 400g",
+      "brand-name": "Similac Mum"
+    }
+  },
+  "100S875271340": {
+    "sku": "100S875271340",
+    "brand": "Similac Mum",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacMumGoldStrawberry400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Mum Strawberry 400g",
+      "brand-name": "Similac Mum"
+    }
+  },
+  "100S875271440": {
+    "sku": "100S875271440",
+    "brand": "Similac Mum",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacMumGoldStrawberry400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Mum Strawberry 400g",
+      "brand-name": "Similac Mum"
+    }
+  },
+  "100S950871383": {
+    "sku": "100S950871383",
+    "brand": "Similac Total Comfort",
+    "points": 420,
+    "weightInGrams": 820,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacTotalComfort3-820g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Total Comfort Stage 3 820g",
+      "brand-name": "Similac Total Comfort"
+    }
+  },
+  "100S950891483": {
+    "sku": "100S950891483",
+    "brand": "Similac Total Comfort",
+    "points": 420,
+    "weightInGrams": 820,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacTotalComfort3-820g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Total Comfort Stage 3 820g",
+      "brand-name": "Similac Total Comfort"
+    }
+  },
+  "100Y5730D8140": {
+    "sku": "100Y5730D8140",
+    "brand": "Similac Gain IQ",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacEinsteinStage3-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Stage 3 400g",
+      "brand-name": "Similac Gain IQ"
+    }
+  },
+  "100Y5730D8185": {
+    "sku": "100Y5730D8185",
+    "brand": "Similac Gain IQ",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacEinsteinStage3-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Stage 3 850g",
+      "brand-name": "Similac Gain IQ"
+    }
+  },
+  "100Y5740D8140": {
+    "sku": "100Y5740D8140",
+    "brand": "Similac Gain IQ",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacEinsteinStage4-400g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Stage 4 400g",
+      "brand-name": "Similac Gain IQ"
+    }
+  },
+  "100Y5740D8185": {
+    "sku": "100Y5740D8185",
+    "brand": "Similac Gain IQ",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-images/similac/SimilacEinsteinStage4-850g.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Stage 4 850g",
+      "brand-name": "Similac Gain IQ"
+    }
+  },
+  "100S9072D8K40": {
+    "sku": "100S9072D8K40",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureVanilla400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9562D8240": {
+    "sku": "100S9562D8240",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureWheat400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure wheat 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y4848D8140": {
+    "sku": "100Y4848D8140",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureStrawberry400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure strawberry 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y4848D8240": {
+    "sku": "100Y4848D8240",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureStrawberry400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure strawberry 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y576230140": {
+    "sku": "100Y576230140",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureAlmond400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure almond 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9072D8K85": {
+    "sku": "100S9072D8K85",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureVanilla850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure vanilla 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9072D8L85": {
+    "sku": "100S9072D8L85",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureVanilla850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure vanilla 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9562D8285": {
+    "sku": "100S9562D8285",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureWheat850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure wheat 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y4848D8185": {
+    "sku": "100Y4848D8185",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureStrawberry850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure strawberry 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y4848D8285": {
+    "sku": "100Y4848D8285",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureStrawberry850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure strawberry 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9072D8L40": {
+    "sku": "100S9072D8L40",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureVanilla400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Vanilla 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9562D8340": {
+    "sku": "100S9562D8340",
+    "brand": "Ensure",
+    "points": 750,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureWheat400g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Wheat 400g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100S9562D8385": {
+    "sku": "100S9562D8385",
+    "brand": "Ensure",
+    "points": 1600,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/ensure/products/EnsureWheat850g_1.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Ensure Gold Wheat 850g",
+      "brand-name": "ENSURE"
+    }
+  },
+  "100Y5710D8140": {
+    "sku": "100Y5710D8140",
+    "brand": "Similac Infant Formula",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y5710D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 1 400G",
+      "brand-name": "Similac Infant Formula"
+    }
+  },
+  "100Y5710D8185": {
+    "sku": "100Y5710D8185",
+    "brand": "Similac Infant Formula",
+    "points": 0,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y5710D8185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 1 850G",
+      "brand-name": "Similac Infant Formula"
+    }
+  },
+  "100Y5720D8140": {
+    "sku": "100Y5720D8140",
+    "brand": "Similac Follow-On Formula",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y5720D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 2 400G",
+      "brand-name": "Similac Follow-On Formula"
+    }
+  },
+  "100Y5720D8185": {
+    "sku": "100Y5720D8185",
+    "brand": "Similac Follow-On Formula",
+    "points": 0,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y5720D8185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "SIMILAC  STAGE 2 850G",
+      "brand-name": "Similac Follow-On Formula"
+    }
+  },
+  "100S948871541": {
+    "sku": "100S948871541",
+    "brand": "Similac Total Comfort Stage 1",
+    "points": 0,
+    "weightInGrams": 360,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100S948871541.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Total Comfort Stage 1 360g",
+      "brand-name": "Similac Total Comfort Stage 1"
+    }
+  },
+  "100S949871441": {
+    "sku": "100S949871441",
+    "brand": "Similac Total Comfort Stage 2",
+    "points": 0,
+    "weightInGrams": 360,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100S949871441.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Similac Total Comfort Stage 2 360g",
+      "brand-name": "Similac Total Comfort Stage 2"
+    }
+  },
+  "100Y6502D8140": {
+    "sku": "100Y6502D8140",
+    "brand": "PediaSure 1+",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6502D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 1+ VANILLA 400G",
+      "brand-name": "PediaSure 1+"
+    }
+  },
+  "100Y6502D8240": {
+    "sku": "100Y6502D8240",
+    "brand": "PediaSure 1+",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6502D8240.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 1+ VANILLA 400G",
+      "brand-name": "PediaSure 1+"
+    }
+  },
+  "100Y6522D8140": {
+    "sku": "100Y6522D8140",
+    "brand": "PediaSure 1+",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6522D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 1+ STRAWBERRY 400G",
+      "brand-name": "PediaSure 1+"
+    }
+  },
+  "100Y6522D8240": {
+    "sku": "100Y6522D8240",
+    "brand": "PediaSure 1+",
+    "points": 0,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6522D8240.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PEDIASURE 1+ STRAWBERRY 400G",
+      "brand-name": "PediaSure 1+"
+    }
+  },
+  "100Y6532D8140": {
+    "sku": "100Y6532D8140",
+    "brand": "PediaSure",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6532D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PediaSure 3+ Vanilla 400g",
+      "brand-name": "PediaSure"
+    }
+  },
+  "100Y6532D8185": {
+    "sku": "100Y6532D8185",
+    "brand": "PediaSure",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6532D8185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "PediaSure 3+ Vanilla 850g",
+      "brand-name": "PediaSure"
+    }
+  },
+  "100Y4958D8140": {
+    "sku": "100Y4958D8140",
+    "brand": "Glucerna",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y4958D8140.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 400g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y4958D8185": {
+    "sku": "100Y4958D8185",
+    "brand": "Glucerna",
+    "points": 420,
+    "weightInGrams": 850,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y4958D8185.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Glucerna Vanilla 850g",
+      "brand-name": "Glucerna"
+    }
+  },
+  "100Y6552D8240": {
+    "sku": "100Y6552D8240",
+    "brand": "Pediasure",
+    "points": 200,
+    "weightInGrams": 400,
+    "image-url": "assets/images/layout-three/myanmar/product-details-landing/product-images/100Y6552D8240.png",
+    "buy-now-url": "",
+    "id": {
+      "name": "Pediasure 3+ Strawberry 400g",
+      "brand-name": "Pediasure"
+    }
+  }
+}
