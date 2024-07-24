@@ -15,10 +15,10 @@ app.use('/api',router);
 
 app.use('/get', (req, res, next)=> {
     console.log('test');
-    const Cat = mongoose.model('Cat', { name: String });
+    const User = mongoose.model('User', { name: String });
 
-const kitty = new Cat({ name: 'Zildjian' });
-kitty.save().then(() => console.log('meow'));
+const testUser = new User({ name: 'user1' });
+testUser.save().then(() => console.log('user added'));
     res.json({succeess: true, message:'testing get'});
 });
 
